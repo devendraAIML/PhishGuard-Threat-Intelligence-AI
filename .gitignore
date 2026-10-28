@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+tsconfig.tsbuildinfo
